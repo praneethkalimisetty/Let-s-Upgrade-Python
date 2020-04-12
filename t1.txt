@@ -1,0 +1,5 @@
+2) Hello Sai Praneeth,
+2) This is the first file you have created.
+New content is appended with append(a) mode.
+Append mode is working.
+To check file 
